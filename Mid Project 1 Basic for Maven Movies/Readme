@@ -1,0 +1,27 @@
+SITUATION
+
+The company's insurance policy is up for renewal and the underwriter needs some updated information from us 
+before they will issue a new policy
+
+OBJECTIVE 
+
+Leverage your skills, skills to extract and analyze data from various tables in the Maven movies database so that you can answer the underwriter's question.Each question can be answered by querying just one table, part of your job as an analyst is figuring out which table to use.
+
+QUESTIONS 
+
+1) We will need list of all staff members including their first name and last names,email addresses and the storeidentification no where they work.
+
+2) We will need separate counts of inventory items held at each of your two stores
+
+3)we will need a count of active customers for each of our stores.Separately, please.
+
+4) In order to assess the liability of a data breach,we will need you to provide a count of all the customer email addresses stored in the database.
+
+5)we are interested in how diverse your film offering is as a means of understanding how likely you are to keep customers engaged in the future please provide the count of unique film titles you have an inventory at each row and then provide a count of the unit categories of films you provide
+
+6)we would like to understand a replacement cost of your films. please provide a replacement cost for the film that is least expensive to replace, the most expensive to replace and the  and the average of all the films you carry
+
+7)we are interested in having you put payment monitoring system and maximum payment processing restrictions in place in order to minimise the Future risk of fraud by a staff
+Please provide the average payment you process as well as the maximum payment you have processed
+
+8)we would like to better understand what your customers base looks like. please provide a list of the customers identification values, with the count of rentals they have made all-time, with your highest volume customers at the top of the list
